@@ -111,7 +111,7 @@ source .venv/bin/activate
 ### 3. Install Dependencies
 
 ```bash
-pip install pandas numpy scikit-learn streamlit matplotlib seaborn xgboost kagglehub flask
+pip install -r requirements.txt
 ```
 
 ## Run the App

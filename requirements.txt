@@ -1,0 +1,14 @@
+# Core runtime (Streamlit app)
+streamlit>=1.30,<2.0
+pandas>=2.0,<3.0
+numpy>=1.24,<3.0
+scikit-learn>=1.3,<2.0
+
+# Optional: notebook training and analysis
+matplotlib>=3.7,<4.0
+seaborn>=0.12,<1.0
+xgboost>=2.0,<3.0
+kagglehub>=0.3,<1.0
+
+# Optional: Flask API (app.py)
+flask>=2.3,<4.0
