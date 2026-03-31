@@ -184,10 +184,6 @@ Also confirm packages are installed in the active environment.
 - Add model versioning and experiment tracking
 - Containerize deployment with Docker
 
-## License
-
-MIT (or your preferred license)
-
 ## Author
 
 Sanjam
